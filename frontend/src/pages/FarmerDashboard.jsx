@@ -249,7 +249,7 @@ export default function FarmerDashboard() {
     setIsTyping(true);
 
     try {
-      const genAI = new GoogleGenerativeAI("AIzaSyBWc3x_x-MhQZQd8TzjYKgVdgFaRpIgZKk");  // Placeholder - replace with real key
+      const genAI = new GoogleGenerativeAI(import.meta.env.VITE_GEMINI_API_KEY);
       const model = genAI.getGenerativeModel({
         model: "gemini-2.5-flash",
         systemInstruction: "You are the MandiConnect AI Assistant. You help farmers with crop health, market prices, and farming advice. Keep responses concise and professional."
