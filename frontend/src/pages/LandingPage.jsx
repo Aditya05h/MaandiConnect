@@ -625,7 +625,7 @@ export default function LandingPage() {
                         <div className="footer-credits">
                             Built By Team : <span className="team-name">BeyondAI</span>
                             <div className="developers-list">
-                                Developers: Rishabh K, Sammed K, Sammed B, Aditya H
+                                Developers: Tejas, Sammed K, Varun, Aditya H
                             </div>
                         </div>
                     </div>

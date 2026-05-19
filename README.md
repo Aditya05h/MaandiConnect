@@ -2,8 +2,8 @@
 
 MandiConnect is a farm-to-retail marketplace developed as a Minimum Viable Product (MVP), featuring both a website and a Progressive Web Application (PWA).
 
-> Built as a Hackathon Project by a team of 4:
-> Aditya, Rishabh, Sammed K and Sammed B
+> Built as a Project by a team of 4:
+> Aditya, Tejas, Sammed K and Varun
 
 ---
 
